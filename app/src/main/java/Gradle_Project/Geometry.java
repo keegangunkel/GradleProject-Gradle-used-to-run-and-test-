@@ -1,3 +1,4 @@
+package Gradle_Project;
 import java.util.Scanner;
 
 public class Geometry {
